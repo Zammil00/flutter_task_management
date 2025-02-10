@@ -2,8 +2,9 @@
 
 ![Image](https://github.com/user-attachments/assets/769b06e5-7954-48e0-9501-64d5637004be)
 
-A new Flutter project.
+[Desain oleh @trisnow](https://www.figma.com/@trisnow)
 
+A new Flutter project.
 
 ## Getting Started
 
