@@ -1,4 +1,4 @@
-# flutter_task_management
+# Flutter Task Management
 
 ![Image](https://github.com/user-attachments/assets/769b06e5-7954-48e0-9501-64d5637004be)
 
